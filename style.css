@@ -69,11 +69,7 @@ header {
 }
 
 #index {
-  background-image: url(https://github.com/komoridesu5/ssg-bbc/blob/master/seiko.JPG?raw=true);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: #c0c0c0;
 }
 
 #osika {
