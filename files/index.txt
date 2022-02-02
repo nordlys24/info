@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Satisfy&family=Stoke&family=Yellowtail&family=Geo&family=Oswald&family=Lobster&family=Cookie&family=Chewy&family=Limelight&family=Sacramento&family=Plaster&display=swap" rel="stylesheet">
+</head>
+
+<header>
+  <h1>Mom's Bakery</h1>
+</header>
+
+<section class="shop">
+  <h2 class="title">Mom's Bakeryについて</h2>
+  <p>
+    <img src="img/marsa.png" width="200">
+    1725年にフランスから来たサラ・オートゥイユが、ホープタウン時計台の前で小さな屋台を使ってクロワッサンを売り始めたのがMom's Bakeryの始まりです。<br>
+    現在の店長マーサで12代目となりますが、一番人気の石釜で焼いたサクサククロワッサンは創業当時の味を約３００年守り続けています。
+  </p>
+</section>
+
+<section class="photo">
+  <h2 class="title">おすすめのパン</h2>
+  <div class="big">
+    <img src="img/cro-big.jpg" width="500">
+    <h3>サクサククロワッサン</h3>
+  </div>
+
+  <div class="box">
+    <div class="small">
+      <img src="img/danish.jpg" width="240">
+      <h3>レーズンデニッシュ</h3>
+    </div>
+
+    <div class="small">
+      <img src="img/rye.jpg" width="240">
+      <h3>こだわりライ麦パン</h3>
+    </div>
+  </div>
+
+  <p>毎日8:00、12:00、15:00に焼きたてのパンをご用意してお待ちしております。</p>
+</section>
+
+
+</html>
