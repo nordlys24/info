@@ -22,6 +22,10 @@ ul {
   padding: 0;
 }
 
+.ul_bottom{
+  padding-bottom: 100px;
+}
+
 a {
   color: #3583aa;
   text-decoration: none;
@@ -98,6 +102,16 @@ p {
 }
 
 .icon4 {
+  padding-top: 40px;
+}
+
+.icon5:before {
+  content: "";
+  padding-right: 10px;
+  border-left: 7px solid #4ed3f4;
+}
+
+.icon5 {
   padding-top: 40px;
 }
 
